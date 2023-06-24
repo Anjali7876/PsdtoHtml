@@ -1,0 +1,163 @@
+
+.container {
+    background-image: url("images/bghtml.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:250px;
+    height:1100px;
+    border:1px solid red;
+    position: relative;
+   
+  
+
+}
+
+
+.col-lg-6{
+    position:absolute;
+  
+}
+.imgleft1{
+    width:100px;
+    height:140px;
+    border:2px solid white;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.para{
+    margin-left: 100px;
+}
+
+.para i{
+    font-size:50px;
+    padding-left: 40px;
+}
+
+.subpara{
+    padding-left: 71px;
+    font-size: 52px;
+    margin-top: -35px;
+    margin-left: 51px;
+}
+.subpara1{
+    
+     /* padding-top:5px;
+     padding-left: 5px; */
+    font-size: 8px;
+    line-height:1px;
+    padding:3px;
+    
+}
+.border{
+    float: right;
+    border: 2px solid rgb(252, 235, 111);
+    width:70px;
+    height:50px;
+    padding:5px;
+    margin-top: -34px;
+}
+.para0{
+    margin-left: 110px;
+    padding-top: 33px;
+    font-size: 12px;
+}
+.border1{
+    border:2px solid rgba(156, 101, 18,0.5);
+    width:80px;
+    height:60px;
+
+    
+    margin-top: 250px;
+    margin-left: 20px;
+   
+   
+}
+.border1 p{
+    font-size: 11px;
+      text-align: center;
+}
+.image2{
+    width:140px;
+    margin-left:110px;
+    margin-top: -70px;
+  
+}
+
+.image3{
+    width:110px;
+    /* height:110px; */
+    margin-left:0px;
+    margin-top:6px;
+  
+}
+
+.border2{
+    border:2px solid rgba(156, 101, 18,0.3);
+    width:100px;
+    height:100px;
+    margin-left: 100px;
+    margin-top: -150px;
+    /* height:60px;  */
+   
+}
+.border2 p{
+    font-size:11px;
+      /* text-align: center; */
+      padding:12px;
+}
+.border4{
+    border:2px solid white;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    margin-top: 60px;
+   
+}
+.border4 p{
+    
+    font-size: 10px;
+    margin-left: 55px;
+  padding-top:2px;
+}
+.div1{
+    margin-top: 6px;
+    margin-left: 12px;
+    margin-bottom: 2px;
+    width:220px;
+    height:30px;
+    background-color: rgb(237, 215, 187);
+    border:2px solid rosybrown;
+
+    /* margin: 5px; */
+}
+.div1 p{
+    font-size: 11px;
+    text-align: center;
+    color:grey;
+}
+.btn{
+    border:2px solid rosybrown;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding:9px;
+}
+.btn1{
+    color:white;
+    background-color: rgba(64, 80, 74,0.6);
+    border:0;
+    outline:0;
+    margin-top: 5px;
+    margin-left: 80px;
+    padding:9px;
+}
+.footer{
+    font-size: 7px;
+}
+.image7{
+     width:120px;
+     /* height:50px; */
+     margin-top: -200px;
+     float: right;
+     
+}
